@@ -73,7 +73,7 @@ const Login = () => {
                     </div>
                 </form>
                 <div className="mt-4" >
-                    <p> ¿No tienes cuenta? <span className="text-white pointer"  onClick={()=> window.location.replace("Diamond-React-Node/#/Register") } > Registrate aquí </span> </p>
+                    <p> ¿No tienes cuenta? <span className="text-white pointer"  onClick={()=> window.location.replace("/#/Register") } > Registrate aquí </span> </p>
                 </div>
             </div>
         </div>

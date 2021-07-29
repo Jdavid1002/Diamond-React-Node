@@ -52,7 +52,7 @@ const Register = () => {
                     <RegisterTwo datos={Campos} />
                 }
                 <div className="mt-4" >
-                    <p> ¿Ya tienes cuenta? <span className="text-white pointer"  onClick={()=> window.location.replace("Diamond-React-Node/#/Login") } > Inicia Sesión aquí </span> </p>
+                    <p> ¿Ya tienes cuenta? <span className="text-white pointer"  onClick={()=> window.location.replace("/#/Login") } > Inicia Sesión aquí </span> </p>
                 </div>
             </div>
         </div>

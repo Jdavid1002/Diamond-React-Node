@@ -53,7 +53,7 @@ const RegisterTwo = ({datos}) => {
                 })
 
                 if(enviarUsuario.data){
-                    window.location.replace("Diamond-React-Node/#/Login")
+                    window.location.replace("/#/Login")
                 }
 
             }else{
